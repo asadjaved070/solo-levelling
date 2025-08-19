@@ -1,0 +1,18 @@
+:root{
+    --background:#0A0A0F;
+    --sections:#1C1C29;
+    --borders:#4C4C73;
+    --aura:#6B4CFF;
+    --button:#00D4FF;
+    --text:#FFFFFF;
+}
+nav{
+    color: var(--text);
+
+}
+button{
+    background: var(--background);
+}
+body{
+    background: var(--background);
+}
